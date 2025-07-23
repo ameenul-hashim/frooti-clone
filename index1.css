@@ -1,0 +1,147 @@
+body{/*boody*/
+    margin: 0;
+   background-color:  #050424;
+   background-attachment: fixed;
+   width:100%
+}/*header left*/
+.header-left{
+padding-left: 25px;
+padding-top: 20px;
+width:10px;
+    float: left;
+  
+
+}  /*ul area*/
+ul{
+    list-style-type: none;
+    overflow:hidden;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+
+}/*list for nav*/
+li{
+    float:left;
+        text-align: center;
+}
+a{
+    text-decoration: none;
+   color: white;
+   margin-left: 40px;
+       text-align: center;
+}
+.navsides{
+    float: right;
+    margin-inline-end: 20px;
+    padding-top: 10px;
+      
+ 
+}
+.banner1{/*banner first*/
+
+       width: 100%;
+    height: auto;
+    display: block;
+}
+.main{/*main body starts*/
+    display:flex;
+}
+.left-main{/*left ain body of the html*/
+background: #F09130;
+width: 50%;
+height: 400px;
+float: left;
+}
+.right-main{/*right main body of the html*/
+background-color: white;
+background-attachment: fixed;
+height: 400px;
+width: 50%;
+float: left;
+}
+.left-main{/*left main body under the first left main or child left main*/ 
+    height: 100vh;
+
+}
+.left-main-animation{/*animated bar clone models style*/
+    width:551px;
+    height:233px ;
+    background: blueviolet;
+    border-radius: 300px 0px 300px 0px;
+    align-items: center;
+    margin-top:33vh;
+    margin-left: 14vh;
+    font-size:28px;
+}
+.livefrooticaption{/*animation clone captions*/
+    text-align: center;
+    padding-top: 50px;
+    padding-left:45px;
+    color: white;
+}
+.right-main{/*right main sub child*/
+    height: 100vh;
+     font-family: "Meriva, sans-serif"
+   
+}
+.banner2{/*second banner*/
+       width: 100%;
+    height: auto;
+    display: block;
+}
+
+.right-main-portion{/*right main portion */
+  padding-top: 100px;
+  padding-left: 80px;
+}
+.footerclass{/*starting of the footer class*/
+    width: 100%;
+    background-color: rgb(188, 33, 33);
+    height:250px;
+   font-family:inherit;
+}
+.footer1{/*footer first*/
+    float:left;
+    width: 33.33%;
+   height: 250px;
+    background-color: white;
+}
+.footer1A{/*footer first portion*/
+    padding-left: 90px;
+    padding-top: 30px;
+}
+.footer2{/*footer second portion*/
+    float:left;
+    width: 33.33%;
+     height:250px;
+    background-color: white; 
+}
+.footer2A{/*footer second portion sub portion*/
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.footer3{/* footer third portion*/
+    float:left;
+    width: 33.33%;
+   height: 250px;
+    background-color: white; 
+}
+.footer3A{/*footer third sub portion*/
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.strongclass{/*strong class tag inside footer style*/
+    line-height: 25px;
+      padding-left: 30px;
+}
+#email1{/*email address style*/
+    line-height: 40px;
+}
+#copyright{/*copy right and its styles*/
+padding-left: 90px;
+}
+/*end of the code f css styling*/
+/*end of the code f css styling*/
+/*end of the code f css styling*/
+/*end of the code f css styling*/
+/*end of the code f css styling*/
